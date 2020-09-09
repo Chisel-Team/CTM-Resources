@@ -4,7 +4,7 @@
         "ctm_version": 1,
         "type":"CTM",
         "textures":[
-            "minecraft:blocks/endframe_top_ct"
+            "minecraft:block/endframe_top_ct"
         ],
         "extra":{
         	"ignore_states":"true"

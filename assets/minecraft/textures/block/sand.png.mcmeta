@@ -2,15 +2,14 @@
     "ctm": {
         "ctm_version": 1,
         "type": "EDGES_FULL",
-        "layer": "TRANSLUCENT",
         "textures": [
-            "blocks/obsidian_reflect_ctm"
+            "block/sand_damp"
         ],
         "extra": {
             "connect_to": [
-                { "block": "portal" }
-            ],
-            "light": 12
+                { "block": "water" },
+                { "block": "flowing_water" }
+            ]
         }
     }
 }

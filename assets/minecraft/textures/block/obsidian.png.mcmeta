@@ -3,12 +3,11 @@
         "ctm_version": 1,
         "type": "EDGES_FULL",
         "textures": [
-            "blocks/sand_damp"
+            "block/obsidian_portal"
         ],
         "extra": {
             "connect_to": [
-                { "block": "water" },
-                { "block": "flowing_water" }
+                { "block": "portal" }
             ]
         }
     }

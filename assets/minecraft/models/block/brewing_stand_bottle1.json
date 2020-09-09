@@ -1,9 +1,9 @@
 {
     "textures": {
-        "particle": "blocks/brewing_stand",
-        "stand": "blocks/brewing_stand",
-        "glow_stand": "blocks/brew_glow_tube",
-        "glow_bottle": "blocks/brew_glow_bottle"
+        "particle": "block/brewing_stand",
+        "stand": "block/brewing_stand",
+        "glow_stand": "block/brew_glow_tube",
+        "glow_bottle": "block/brew_glow_bottle"
     },
     "elements": [
         {   "from": [ -0.41, 0, 8 ],

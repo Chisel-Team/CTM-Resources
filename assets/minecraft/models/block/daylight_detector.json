@@ -1,9 +1,9 @@
 {   "parent": "block/thin_block",
     "textures": {
-        "particle": "blocks/daylight_detector_top",
-        "top": "blocks/daylight_detector_top",
-        "side": "blocks/daylight_detector_side",
-        "glow": "blocks/daylight_detector_glow"
+        "particle": "block/daylight_detector_top",
+        "top": "block/daylight_detector_top",
+        "side": "block/daylight_detector_side",
+        "glow": "block/daylight_detector_glow"
     },
     "ambientocclusion": false,
     "elements": [

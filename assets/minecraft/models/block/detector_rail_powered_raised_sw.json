@@ -1,9 +1,9 @@
 {
     "parent": "block/rail_raised_glow_sw",
     "textures": {
-        "rail": "blocks/rail_detector_powered",
-        "rail_glow": "blocks/rail_detector_glow",
-        "rail_glow_faint": "blocks/rail_detector_glow_half",
-        "rail_glow_faint_2": "blocks/rail_detector_glow_quarter"
+        "rail": "block/rail_detector_powered",
+        "rail_glow": "block/rail_detector_glow",
+        "rail_glow_faint": "block/rail_detector_glow_half",
+        "rail_glow_faint_2": "block/rail_detector_glow_quarter"
     }
 }

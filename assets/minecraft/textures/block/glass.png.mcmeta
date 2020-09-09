@@ -3,9 +3,9 @@
     "ctm":{
         "ctm_version": 1,
         "type":"CTM",
-        "layer":"TRANSLUCENT",
+        "layer":"CUTOUT",
         "textures":[
-            "minecraft:blocks/glass_green_ctm"
+            "minecraft:block/glass-ctm"
         ]
     }
 }

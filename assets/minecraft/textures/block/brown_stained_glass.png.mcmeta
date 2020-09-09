@@ -3,8 +3,9 @@
     "ctm":{
         "ctm_version": 1,
         "type":"CTM",
+        "layer":"TRANSLUCENT",
         "textures":[
-            "minecraft:blocks/sponge_wet_ctm"
+            "minecraft:block/brown_stained_glass_ctm"
         ]
     }
 }

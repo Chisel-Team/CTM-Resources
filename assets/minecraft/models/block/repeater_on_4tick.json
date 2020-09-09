@@ -1,12 +1,12 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/repeater_on",
-        "slab": "blocks/stone_slab_top",
-        "top": "blocks/repeater_on",
-        "lit": "blocks/redstone_torch_on",
-        "glow": "blocks/repeater_glow",
-        "lit_glow": "blocks/redstone_torch_glow"
+        "particle": "block/repeater_on",
+        "slab": "block/stone_slab_top",
+        "top": "block/repeater_on",
+        "lit": "block/redstone_torch_on",
+        "glow": "block/repeater_glow",
+        "lit_glow": "block/redstone_torch_glow"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

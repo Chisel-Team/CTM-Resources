@@ -3,7 +3,7 @@
         "ctm_version": 1,
         "type":"CTM",
         "textures":[
-            "minecraft:blocks/endframe_side_ct"
+            "minecraft:block/endframe_side_ct"
         ],
         "extra":{
         	"ignore_states":"true"

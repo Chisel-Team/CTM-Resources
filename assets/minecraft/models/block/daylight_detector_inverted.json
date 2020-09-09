@@ -1,9 +1,9 @@
 {
     "textures": {
-        "particle": "blocks/daylight_detector_inverted_top",
-        "top": "blocks/daylight_detector_inverted_top",
-        "side": "blocks/daylight_detector_side",
-        "glow": "blocks/nightlight_detector_glow"
+        "particle": "block/daylight_detector_inverted_top",
+        "top": "block/daylight_detector_inverted_top",
+        "side": "block/daylight_detector_side",
+        "glow": "block/nightlight_detector_glow"
     },
     "ambientocclusion": false,
     "elements": [
