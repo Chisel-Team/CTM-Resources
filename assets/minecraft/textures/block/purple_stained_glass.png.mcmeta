@@ -5,7 +5,7 @@
         "type":"CTM",
         "layer":"TRANSLUCENT",
         "textures":[
-            "minecraft:block/glass_green_ctm"
+            "minecraft:block/purple_stained_glass_ctm"
         ]
     }
 }
