@@ -2,8 +2,8 @@
     "ambientocclusion": false,
     "textures": {
         "particle": "#rail",
-        "rail": "blocks/rail_golden",
-        "rail_glow": "blocks/rail_gold"
+        "rail": "block/rail_golden",
+        "rail_glow": "block/rail_gold"
     },
     "elements": [
         {   "from": [ 0, 1, 0 ],

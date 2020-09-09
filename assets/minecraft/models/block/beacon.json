@@ -2,11 +2,11 @@
 	"parent": "minecraft:block/block",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/glass",
-        "glass": "blocks/glass",
-        "obsidian": "blocks/obsidian",
-        "beacon": "blocks/beacon",
-        "beaconlines": "blocks/lines"
+        "particle": "block/glass",
+        "glass": "block/glass",
+        "obsidian": "block/obsidian",
+        "beacon": "block/beacon",
+        "beaconlines": "block/lines"
     },
     "elements": [
         {   "__comment": "Glass shell",

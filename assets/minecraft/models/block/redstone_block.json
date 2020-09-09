@@ -1,11 +1,11 @@
 {
     "parent": "block/util_cube_glow_5_all",
     "textures": {
-        "glow_4": "blocks/redstone_block_glow_4",
-        "glow_3": "blocks/redstone_block_glow_3",
-        "glow_2": "blocks/redstone_block_glow_2",
-        "glow_1": "blocks/redstone_block_glow_1",
-        "glow_0": "blocks/redstone_block_glow_0",
-        "particle": "blocks/redstone_block"
+        "glow_4": "block/redstone_block_glow_4",
+        "glow_3": "block/redstone_block_glow_3",
+        "glow_2": "block/redstone_block_glow_2",
+        "glow_1": "block/redstone_block_glow_1",
+        "glow_0": "block/redstone_block_glow_0",
+        "particle": "block/redstone_block"
     }
 }

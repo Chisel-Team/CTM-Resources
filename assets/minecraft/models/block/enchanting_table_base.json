@@ -1,11 +1,11 @@
 {   "parent": "block/block",
     "textures": {
-        "particle": "blocks/enchanting_table_bottom",
-        "bottom": "blocks/enchanting_table_bottom",
-        "top": "blocks/enchanting_table_top",
-        "side": "blocks/enchanting_table_side",
-        "glow_top": "blocks/enchanting_table_top_glow",
-        "glow_side": "blocks/enchanting_table_side_glow"
+        "particle": "block/enchanting_table_bottom",
+        "bottom": "block/enchanting_table_bottom",
+        "top": "block/enchanting_table_top",
+        "side": "block/enchanting_table_side",
+        "glow_top": "block/enchanting_table_top_glow",
+        "glow_side": "block/enchanting_table_side_glow"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

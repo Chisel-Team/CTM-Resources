@@ -1,9 +1,9 @@
 {
     "parent": "block/util_cube_glow_3_all",
     "textures": {
-        "all": "blocks/magma",
+        "all": "block/magma",
         "particle": "#all",
-        "glow_1": "blocks/magma_glow",
-        "glow_2": "blocks/magma_glow_faint"
+        "glow_1": "block/magma_glow",
+        "glow_2": "block/magma_glow_faint"
     }
 }

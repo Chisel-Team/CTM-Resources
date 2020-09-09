@@ -1,12 +1,12 @@
 {
 	"parent": "block/block",
     "textures": {
-        "particle": "blocks/endframe_side",
-        "bottom": "blocks/end_stone",
-        "top": "blocks/endframe_top",
-        "side": "blocks/endframe_side",
-        "eye": "blocks/endframe_eye",
-        "socket": "blocks/endframe_socket"
+        "particle": "block/endframe_side",
+        "bottom": "block/end_stone",
+        "top": "block/endframe_top",
+        "side": "block/endframe_side",
+        "eye": "block/endframe_eye",
+        "socket": "block/endframe_socket"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
